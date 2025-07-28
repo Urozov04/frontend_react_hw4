@@ -7,6 +7,7 @@ import image6 from "../../assets/IMAGE (6).svg"
 import image7 from "../../assets/IMAGE (7).svg"
 import image8 from "../../assets/IMAGE (8).svg"
 import image9 from "../../assets/IMAGE (9).svg"
+import image10 from "../../assets/IMAGE (10).svg"
 
 
 const Image = [
@@ -55,6 +56,11 @@ const Image = [
         img: image9,
         title: "Village Pt"
     },
+    {
+        id:10,
+        img: image10,
+        title: "Village Pt"
+    }
 ]
 
 export default Image
